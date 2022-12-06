@@ -1,6 +1,6 @@
 {
     "BaoziManHua":{
-      "baseUrl":"https://cn.baozimh.com",
+      "baseUrl":"https://www.webmota.com",
       "search":"/search?q=",
 
       "searchInfoList":"div.pure-g.classify-items > div",
